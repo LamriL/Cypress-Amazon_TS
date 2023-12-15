@@ -18,12 +18,21 @@ The `start` branch is the main branch for this repo and is the starting point fo
   - Add 3 Products with differents quantity
   - Display Cart Content
   - Logout
-* test
-  **Test b**
-  test list
-  - 02.add_item
-- 03.update_cart
-- 04.editprofile
+    
+- **Update Cart**
+  - Authentification with corrects user/password
+  - Add an item to Product XXX
+  - Remove an item from Product ZZZ
+  - Logout
+    
+- **Edit Profile**
+  - Authentification with corrects user/password
+  - Update Profile
+  - TestCase "New name: empty"
+  - TestCase "New name: special caracters"
+  - TestCase "New name: long string"
+  - Change Name
+  - Logout
 
   
 
